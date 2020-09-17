@@ -1,0 +1,57 @@
+a,
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+ul#menu{
+    margin: 0;
+    padding-left: 8%;
+    word-spacing: 170px;
+    
+}
+ul#menu li{
+    display: inline;
+    list-style: none;
+    padding:  10px;
+    width: 100px;
+}
+ul#menu li:hover{
+    border-bottom: 3px solid red;
+}
+
+
+ul#menu1{
+    margin: 0;
+    padding-left: 10%;
+    word-spacing: 240px;
+    
+}
+ul#menu1 li{
+    display: inline;
+    list-style: none;
+    padding:  10px;
+    width: 100px;
+}
+ul#menu1 li:hover{
+    border-bottom: 3px solid red;
+}
+.produk{
+    display: inline;
+    position: relative;
+    margin-left: 10px;
+}
+.title{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: gray;
+    color: black;
+    width: 100%;
+    padding-top: 50px;
+    height: 200px;
+    opacity: 0;
+    transition: 0.8s;
+}
+.produk:hover> .title{
+    opacity: 1;
+}

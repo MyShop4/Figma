@@ -1,0 +1,90 @@
+#background{
+    background-color:white ;
+}
+#logo_toko{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font: bold;
+    font-size: 40px;
+    margin-left: 1%;
+}
+.form-inline my-2 my-lg-0{
+    width: 20px;
+}
+.carousel-control-next{
+    size: 10%;
+}
+.sepatu1{
+    margin-left: 10%;
+    margin-top: 1.2%;
+}
+#gambar{
+    margin-left: 30px;
+    margin-left: 10%;
+}
+.My{
+    background:whitesmoke;
+    height:10% ;
+}
+.My h1 img{
+    margin-right: 0pt;
+}
+#menu{
+    font-size: 15px;
+    color: black;
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+    text-align: none;
+    color: white;
+    margin-top: 50px;
+    margin-left: 175px;
+    text-transform: uppercase;
+}
+
+.link{
+    font-size: 100%;
+    color: black;
+    word-spacing: 150px;
+    margin-left: 8%;
+}
+.atas1{
+    font-size: 30px;
+}
+.link1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100%;
+    color: black;
+    word-spacing: 150px;
+    margin-left: 8%;
+}
+.gambar{
+    margin-left: 0pt;
+    size: 10%;
+}
+.gambar1{
+    margin-left: 11%;
+    margin-top: 2%;
+}
+.gambar2{
+    margin-left: 11%;
+}
+.gambar{
+    margin-left: 0pt;
+    size: 10%;
+}
+.gambar1{
+    margin-left: 11%;
+}
+.gambar2{
+    margin-left: 11%;
+}
+.gambar3{   
+    margin-left: 20%;
+}
+.gambar4{
+    margin-left: 20%;
+}
+.tulisanbawah1{
+    margin-right: 50%;
+}
